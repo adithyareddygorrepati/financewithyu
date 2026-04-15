@@ -103,7 +103,8 @@ The system follows a simple but production-relevant architecture:
 
 See the architecture diagram here:
 
-`architecture/nextcloud_architecture_diagram.png`
+
+![Architecture Diagram](architecture/nextcloud_architecture_diagram.png)
 
 If the image does not render directly in your viewer, open it from the `architecture/` folder.
 
