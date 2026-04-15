@@ -141,14 +141,13 @@ Because this project was tied to an actual use case and user need, it became a s
 
 Project screenshots are available under the [Screenshots](https://github.com/adithyareddygorrepati/financewithyu/tree/main/screenshots) folder.
 
-Recommended screenshots included in this repository:
 
-- ![admin-page](screenshots/admin-page.png)
-- `screenshots/external-storage-settings.png`
-- `screenshots/storage-mounted.png`
-- `screenshots/security-warnings.png`
+- ![Nextcloud Dashboard](screenshots/admin-page.PNG)
+- ![External SSD](screenshots/external-ssd.PNG)
+- ![Ext Storage Settings](screenshots/external-storage-settings.PNG)
+- ![Nextcloud Dashboard](screenshots/nextcloud-dashboard.PNG)
+- ![Storage Mounted](screenshots/storage-mounted.PNG)
 
-These screenshots help demonstrate the actual deployment and can still serve as proof of the project even if the live deployment is no longer active in the future.
 
 ---
 
