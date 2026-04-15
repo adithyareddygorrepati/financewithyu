@@ -106,7 +106,7 @@ See the architecture diagram here:
 
 ![Architecture Diagram](architecture/nextcloud_architecture_diagram.png)
 
-If the image does not render directly in your viewer, open it from the `architecture/` folder.
+If the image does not render directly in your viewer, open it from the [Architecture Diagram](https://github.com/adithyareddygorrepati/financewithyu/blob/main/architecture/nextcloud_architecture_diagram.png) folder.
 
 ---
 
@@ -139,11 +139,11 @@ Because this project was tied to an actual use case and user need, it became a s
 
 ## Screenshots
 
-Project screenshots are available under the `screenshots/` folder.
+Project screenshots are available under the [Screenshots](https://github.com/adithyareddygorrepati/financewithyu/tree/main/screenshots) folder.
 
 Recommended screenshots included in this repository:
 
-- `screenshots/nextcloud-dashboard.png`
+- ![admin-page](screenshots/admin-page.png)
 - `screenshots/external-storage-settings.png`
 - `screenshots/storage-mounted.png`
 - `screenshots/security-warnings.png`
