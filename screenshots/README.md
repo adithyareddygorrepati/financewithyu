@@ -9,7 +9,7 @@ screenshots/admin-page.png
 screenshots/external-storage-settings.png
 
 ### External Storage Overview
-screenshots/external-storage.png
+screenshots/external-ssd.png
 
 
 ### Storage Mounted on Server
