@@ -1,6 +1,3 @@
-# financewithyu
-Self-hosted cloud storage set up for a growing finance content brand using Nextcloud, Apache, MariaDB, and external storage.
-
 # FinanceWithYu Cloud Infrastructure
 
 A self-hosted cloud storage and content management system built to support a growing finance-focused content workflow using **Nextcloud**, **Apache**, **PHP**, **MariaDB**, and **external block storage**.
@@ -106,9 +103,9 @@ The system follows a simple but production-relevant architecture:
 
 See the architecture diagram here:
 
-`architecture/nextcloud_architecture_diagram.png`
+architecture/nextcloud_architecture_diagram.png
 
-If the image does not render directly in your viewer, open it from the `architecture/` folder.
+If the image does not render directly in your viewer, open it from the architecture/ folder.
 
 ---
 
